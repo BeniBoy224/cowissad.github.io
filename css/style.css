@@ -73,7 +73,10 @@ a:hover {
         height: 50vh;
     }
     #inside {
-        top: -20%;
+        top: -14rem;
+    }
+    h1, h2, h4 {
+        font-size: 20px;
     }
 }
 
